@@ -11,8 +11,8 @@
 A [clean-css](https://github.com/jakubpawlowicz/clean-css) loader for [webpack](https://github.com/webpack/webpack).
 
 # Clean-CSS-loader
+[![npm](https://img.shields.io/npm/v/clean-css-loader.svg)](https://www.npmjs.com/package/clean-css-loader)
 [![Build Status](https://travis-ci.org/retyui/clean-css-loader.svg?branch=master)](https://travis-ci.org/retyui/clean-css-loader) 
-[![npm version](https://badge.fury.io/js/clean-css-loader.svg)](https://badge.fury.io/js/clean-css-loader)
 [![Greenkeeper badge](https://badges.greenkeeper.io/retyui/clean-css-loader.svg)](https://greenkeeper.io/)
 
 
@@ -111,5 +111,3 @@ More option: [https://github.com/jakubpawlowicz/clean-css#constructor-options](h
     }
   }
 ```
-
-[![NPM](https://nodei.co/npm-dl/clean-css-loader.png)](https://nodei.co/npm/clean-css-loader/)
